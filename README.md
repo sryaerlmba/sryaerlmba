@@ -10,7 +10,7 @@
 
 - 👨‍🎓 Currently studying Information Systems & Technology
 - 💼 Currently an intern at **BRI Research Institute**, contributing to digital innovation & SME empowerment
-- 🌱 Learning & building with: **Next.js**, **Laravel API**, **Supabase**, **Vue**, and **Prisma**
+- 🌱 Learning & building with: **Next.js**, **Supabase**, **Vue**, and **Prisma**
 
 ---
 
@@ -18,5 +18,5 @@
 
 ```bash
 💡 Languages:       JavaScript • TypeScript • PHP • Python • SQL
-🧰 Frameworks:      Next.js • Laravel • CodeIgniter • Flask
+🧰 Frameworks:      Next.js • Laravel • CodeIgniter • Vue • Inertia
 📦 Tools & Others:  Tailwind CSS • Prisma • Supabase • MySQL • Git
